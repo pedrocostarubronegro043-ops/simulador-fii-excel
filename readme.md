@@ -47,4 +47,4 @@ Desenvolvido por **Pedro Augusto** como parte do desafio de projeto na **DIO (Di
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/pedrocostarubronegro043-ops)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrocostarubronegro043-ops)
 ![Demonstração da Planilha](./imagens/dashboard.png)
-(./imagens/dashboard2.png)
+![Demonstração da Planilha](./imagens/dashboard2.png)
